@@ -4,8 +4,8 @@ A python program that generates programming quotes and jokes.
 
 ## Contributors
 - `initiator`: MUNIER Alexandre Groupe E
-- `contributor-1`: SERIKOFF Yvan Groupe E
-- `contributor-2`: RAT Frédérick Groupe E
+- `contributor-1`: RAT Frédérick Groupe E
+- `contributor-2`: SERIKOFF Yvan Groupe E
 - `contributor-3`: JAEGLE Benjamin Groupe E
 
 ## Fork urls
