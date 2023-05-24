@@ -13,7 +13,7 @@ def main():
         menu()
         quote = []
 
-        choice = input("Choose your an action (1-3): ")
+        choice = input("Choose your an action (1-4): ")
         
         if choice == "1":
             print_quote(random_quote(quotes))
@@ -22,7 +22,7 @@ def main():
         elif choice == "3":
             print("Good bye...")
         elif choice == "4":
-            add_quote(quote,quotes)
+            add_quote(quote,'r')
             break
         else:
             print("Invalid input")
